@@ -4,7 +4,7 @@
 - **Live Website**: [FakeStore](https://fake-store-five.vercel.app)
 - **Demo Video**: [Watch Demo](https://www.youtube.com/watch?v=1wALZYWvflo)
 
-## Credentials
+## Accounts
 - **User Account**:
   - Username: `minh.vo`
   - Password: `123456`
