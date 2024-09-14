@@ -1,0 +1,2 @@
+# documentforfakeStore
+FakeStore Ecommerce Website
