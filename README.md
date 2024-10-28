@@ -16,9 +16,6 @@
 ## Overview
 FakeStore is a fully functional ecommerce website where users can browse products, add items to the cart, and complete purchases. Admins can manage products, update order statuses, and control inventory. 
 
-TEST
-
-
 ## Features
 ### Main Page
 ![Main Page](https://drive.google.com/uc?export=view&id=1vu7r-XjUNfjZETr1lCdD2uM4bcjSucy5)
